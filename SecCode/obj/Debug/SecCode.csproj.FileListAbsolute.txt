@@ -1,0 +1,10 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\15-SecCode\SecCode\SecCode\bin\Debug\SecCode.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\15-SecCode\SecCode\SecCode\obj\Debug\SecCode.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\15-SecCode\SecCode\SecCode\obj\Debug\SecCode.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\15-SecCode\SecCode\SecCode\obj\Debug\SecCode.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\15-SecCode\SecCode\SecCode\bin\Debug\SecCode.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\15-SecCode\SecCode\SecCode\bin\Debug\SecCode.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\15-SecCode\SecCode\SecCode\obj\Debug\SecCode.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\15-SecCode\SecCode\SecCode\obj\Debug\SecCode.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\15-SecCode\SecCode\SecCode\obj\Debug\SecCode.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\15-SecCode\SecCode\SecCode\obj\Debug\SecCode.Form2.resources
